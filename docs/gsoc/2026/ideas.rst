@@ -109,6 +109,33 @@ The intention here is to replace it with its own backend: SDL (SDL_audio, specif
 
 **Expected size of project:** 175 hours
 
+2D Free-Form Deform (175h)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Description:**
+
+Allow artist to set up a grid and animate by deforming on moving this lattice points.
+
+**Where to begin:**
+
+1. Check Skeleton Deformation layer works
+
+2. Check how handles work (duckmatic class)
+
+**Expected outcome:**
+
+* A new deformation layer by grid, not by bones.
+
+* Visual control points to deform.
+
+**Dificulty:** Medium
+
+**Skills required/preferred:** C++.
+
+**Possible mentor(s):** `Rodolfo Ribeiro <https://github.com/rodolforg>`_ , `Mohamed Adham <https://github.com/mohamedAdhamc>`_
+
+**Expected size of project:** 175 hours
+
 
 Propose a Project
 ------------------
